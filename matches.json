@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa do Mundo 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://pt.wikipedia.org/wiki/Est%C3%A1dio_Centenario"
     },
     "mandante": {
       "nome": "Uruguay",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa do Mundo 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://br.depositphotos.com/stock-photos/maracana.html"
     },
     "mandante": {
       "nome": "Brasil",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa do Mundo 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://br.depositphotos.com/stock-photos/maracana.html"
     },
     "mandante": {
       "nome": "Brasil",
