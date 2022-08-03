@@ -11,8 +11,8 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
-      "nome": "Uruguay"
-      "forca": 4
+      "nome": "Uruguay",
+      "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     }
   }
